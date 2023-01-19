@@ -11,6 +11,7 @@ I've been coding for a year before leaving my +10 year Software Support job, i h
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I would love to help people
+*       Project uploaded at Render.com : https://admin-frontend-gyxe.onrender.com/
 
 ### Skills
 
